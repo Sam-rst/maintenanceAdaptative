@@ -88,7 +88,7 @@ function fetchData(url) {
 
 ### Refactoring pour Améliorer la Performance
 
-Le refactoring du code pour améliorer les performances est une forme de maintenance adaptative qui assure que l'application peut gérer une charge de travail accrue.
+Le refactoring (factorisation) du code pour améliorer les performances est une forme de maintenance adaptative qui assure que l'application peut gérer une charge de travail accrue.
 
 ~~~java
 // Exemple de refactoring d'une boucle pour améliorer la performance
