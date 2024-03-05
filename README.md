@@ -67,6 +67,10 @@ Après avoir mis à jour les dépendances et confirmé que tout fonctionne comme
 
 Une fois que vous avez testé les mises à jour en environnement de développement (et éventuellement de staging), procédez au déploiement en production, tout en restant attentif à d'éventuels problèmes suite à cette mise à jour.
 
+#### Étape 7: Effectuer de la veille
+
+Une notion importante d'une bonne maintenance adaptative est de pouvoir se ressourcer quotidiennement sur les nouvelles failles de sécurité. Github propose justement par défault de notifier ses utilisateurs lorsque des dépendances possèdent des vulnérabilités.
+
 
 ### Adaptation aux Nouvelles Normes
 
