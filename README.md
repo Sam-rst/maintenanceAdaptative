@@ -7,10 +7,9 @@ Dans une entreprise, les besoins des utilisateurs sont en constante évolution. 
 La maintenance adaptative est cruciale pour prolonger la durée de vie d'une application en s'assurant qu'elle reste compatible avec les évolutions de son environnement, comme les mises à jour de systèmes d'exploitation, de bibliothèques tierces, ou l'introduction de nouvelles normes et protocoles.
 La maintenance adaptative à plusieurs fonctions/objectifs dont le principal est d’assurer une réaction rapide lorsque des changements intempestifs interviennent sur les systèmes et les équipements concernés
 
-## Définir ce qu'es la maintenance:
+## Définir ce qu'est la maintenance:
 
-On peut définir la maintenance Adaptative par la création de mise à jour, ces mise a jour s'adaptent à plusiseurs choses, les failles de sécurité, le concordance de la demande client. Le but n'étant pas de modifier les fonctionnalité de l'application mais de l'améliorer 
-
+On peut définir la maintenance adaptative par la création de mise à jour, ces mises a jour s'adaptent à plusiseurs choses, les failles de sécurité, le concordance de la demande client. Le but n'étant pas de modifier les fonctionnalité de l'application mais de l'améliorer. 
 
 ## Exemples de Maintenance Adaptative
 
